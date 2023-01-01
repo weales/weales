@@ -9,7 +9,7 @@ I am a web developer with a focus on building clear, usable, and accessible webs
 I also have extensive back-end experience, with the emphasis on using PHP/NODEJS for most of my back-end projects.
 
 *   🌍  I'm based in The Greater Toronto Area (GTA)
-*   🧠  I'm learning anything and everything JS related, AstroJS and NextJS specifically
+*   🧠  I'm learning anything and everything JS related, AstroJS and NextJS currently
 ### Skills 
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
